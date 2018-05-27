@@ -722,9 +722,9 @@ pre {
   display: inline-block;
   overflow: hidden;
   border: 0;
-  margin: 0;
-  width: 100%;
-  height: auto;
+  margin: 2%;
+  width: 29.33%;
+  height: 600px;
   padding-top: 30px;
 }
 .cover-content-container::after {
@@ -733,7 +733,7 @@ pre {
 .cover-image-container {
   display: inline-block;
   position: relative;
-  width: 30%;
+  width: 100%;
   padding: 0;
 }
 .cover-image {
@@ -784,12 +784,11 @@ pre {
 } */
 .cover-text-container {
   position: relative;
-  display: inline-block;
-  width: 50%;
+  display: block;
+  width: 90%;
   height: auto;
   vertical-align: top;
-  padding-left: 30px;
-  padding-top: 10px;
+  margin: 5%;
 }
 .cover-text {
   width: 100%;

@@ -16,7 +16,7 @@ title: Projects
       </div>
       <div class="cover-text-container">
         <div class="cover-text">
-          <h3>{{ post.title }}{{ post.year}} </h3>
+          <h3>{{ post.title }} </h3>
           <p> {{ post.description}} </p>
         </div>
       </div>
@@ -28,4 +28,7 @@ title: Projects
       </div> -->
   </a>
   {% endfor %}
+</div>
+<div class="project-image">
+  <img src="/images/20180514taiken.jpg">
 </div>
